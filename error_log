@@ -1,0 +1,539 @@
+[10-Dec-2017 21:22:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/benorg/public_html/scheduler/application/views/includes/header.php on line 110
+[11-Dec-2017 00:46:10 America/Chicago] PHP Fatal error:  Call to undefined method Facebook\Facebook::api() in /home/benorg/public_html/scheduler/application/controllers/facebook.php on line 44
+[11-Dec-2017 02:53:21 America/Chicago] PHP Fatal error:  Call to undefined method Facebook\Facebook::api() in /home/benorg/public_html/scheduler/application/controllers/facebook.php on line 44
+[11-Dec-2017 02:53:42 America/Chicago] PHP Fatal error:  Call to undefined method Facebook\Facebook::api() in /home/benorg/public_html/scheduler/application/controllers/facebook.php on line 44
+[11-Dec-2017 23:40:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/facebook.php(96): Facebook\Authentication\AccessTokenMetadata->validateAppId('{app-id}')
+#1 [internal function]: Facebook->fb_callback()
+#2 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#3 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#4 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Dec-2017 00:01:09 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/facebook.php(96): Facebook\Authentication\AccessTokenMetadata->validateAppId('{app-id}')
+#1 [internal function]: Facebook->fb_callback()
+#2 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#3 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#4 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Dec-2017 00:01:32 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/facebook.php(96): Facebook\Authentication\AccessTokenMetadata->validateAppId('{app-id}')
+#1 [internal function]: Facebook->fb_callback()
+#2 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#3 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#4 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Dec-2017 00:02:05 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/facebook.php(96): Facebook\Authentication\AccessTokenMetadata->validateAppId('{app-id}')
+#1 [internal function]: Facebook->fb_callback()
+#2 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#3 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#4 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Dec-2017 00:08:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/facebook.php(96): Facebook\Authentication\AccessTokenMetadata->validateAppId('{app-id}')
+#1 [internal function]: Facebook->fb_callback()
+#2 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#3 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#4 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Dec-2017 00:20:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Access token metadata contains unexpected app ID.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php:329
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/facebook.php(102): Facebook\Authentication\AccessTokenMetadata->validateAppId('{app-id}')
+#1 [internal function]: Facebook->fb_callback()
+#2 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#3 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#4 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Authentication/AccessTokenMetadata.php on line 329
+[12-Dec-2017 03:38:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/facebook.php on line 178
+[12-Dec-2017 18:55:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) Only owners of the URL have the ability to specify the picture, name, thumbnail or description params.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__constru in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 18:56:16 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) Only owners of the URL have the ability to specify the picture, name, thumbnail or description params.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__constru in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 18:56:27 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) A link must be provided if a picture URL is given.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mes in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 18:56:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) Only owners of the URL have the ability to specify the picture, name, thumbnail or description params.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__constru in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 19:12:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) A link must be provided if a picture URL is given.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mes in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 19:19:11 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) A link must be provided if a picture URL is given.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mes in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 19:19:46 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) A link must be provided if a picture URL is given.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mes in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 19:44:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) A link must be provided if a picture URL is given.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mes in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[12-Dec-2017 19:47:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[12-Dec-2017 19:48:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/benorg/public_html/scheduler/application/controllers/facebook.php on line 180
+[12-Dec-2017 19:49:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[12-Dec-2017 19:49:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[12-Dec-2017 19:51:54 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[16-Dec-2017 18:02:19 America/Chicago] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home/benorg/public_html/scheduler/application/controllers/facebook.php on line 178
+[17-Dec-2017 21:17:13 America/Chicago] PHP Fatal error:  Class 'User_model' not found in /home/benorg/public_html/scheduler/system/core/Loader.php on line 304
+[17-Dec-2017 21:17:48 America/Chicago] PHP Fatal error:  Class 'User_model' not found in /home/benorg/public_html/scheduler/system/core/Loader.php on line 304
+[17-Dec-2017 23:56:23 America/Chicago] PHP Fatal error:  Call to undefined method Sms_model::userListing() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 24
+[18-Dec-2017 00:03:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$record' (T_VARIABLE), expecting ',' or ';' in /home/benorg/public_html/scheduler/application/views/sms/index.php on line 36
+[18-Dec-2017 00:15:19 America/Chicago] PHP Parse error:  syntax error, unexpected '' <button type="button" ' (T_ENCAPSED_AND_WHITESPACE) in /home/benorg/public_html/scheduler/application/views/sms/index.php on line 108
+[18-Dec-2017 21:03:05 America/Chicago] PHP Fatal error:  Call to undefined method SMS::addNewPost() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 43
+[18-Dec-2017 21:54:46 America/Chicago] PHP Fatal error:  Call to undefined method SMS::addNewPost() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 43
+[19-Dec-2017 00:38:04 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) Posts where the actor is a page cannot also include privacy.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"er in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Dec-2017 00:54:25 America/Chicago] PHP Fatal error:  Call to a member function setDefaultAccessToken() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 138
+[19-Dec-2017 00:55:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 16
+[19-Dec-2017 00:57:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting function (T_FUNCTION) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 7
+[19-Dec-2017 00:57:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 16
+[19-Dec-2017 01:13:01 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 16
+[19-Dec-2017 01:13:43 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 16
+[19-Dec-2017 01:13:45 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 16
+[19-Dec-2017 01:19:23 America/Chicago] PHP Fatal error:  Cannot access empty property in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 143
+[19-Dec-2017 01:56:09 America/Chicago] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 129
+[19-Dec-2017 02:04:17 America/Chicago] PHP Fatal error:  Call to a member function post() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 101
+[19-Dec-2017 02:05:12 America/Chicago] PHP Fatal error:  Call to a member function post() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 101
+[19-Dec-2017 02:05:53 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'You must provide an access token.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php:209
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(201): Facebook\FacebookRequest->validateAccessToken()
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php(469): Facebook\FacebookClient->sendRequest(Object(Facebook\FacebookRequest))
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php(367): Facebook\Facebook->sendRequest('POST', '/me/feed', Array, NULL, NULL, NULL)
+#3 /home/benorg/public_html/scheduler/application/controllers/sms.php(102): Facebook\Facebook->post('/me/feed', Array, NULL)
+#4 [internal function]: SMS->postFbUser()
+#5 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 209
+[19-Dec-2017 02:06:18 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'You must provide an access token.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php:209
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(201): Facebook\FacebookRequest->validateAccessToken()
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php(469): Facebook\FacebookClient->sendRequest(Object(Facebook\FacebookRequest))
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php(367): Facebook\Facebook->sendRequest('POST', '/me/feed', Array, NULL, NULL, NULL)
+#3 /home/benorg/public_html/scheduler/application/controllers/sms.php(102): Facebook\Facebook->post('/me/feed', Array, NULL)
+#4 [internal function]: SMS->postFbUser()
+#5 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookRequest.php on line 209
+[19-Dec-2017 19:59:14 America/Chicago] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 95
+[19-Dec-2017 21:20:56 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#324) Requires upload file' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:131
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 400, Array)
+#4 /home/be in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 131
+[19-Dec-2017 21:22:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[19-Dec-2017 21:27:43 America/Chicago] PHP Fatal error:  Class 'FacebookRequest' not found in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 271
+[19-Dec-2017 21:29:28 America/Chicago] PHP Fatal error:  Class 'FacebookRequest' not found in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 271
+[19-Dec-2017 21:34:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 274
+[20-Dec-2017 00:19:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 174
+[20-Dec-2017 00:23:11 America/Chicago] PHP Fatal error:  Call to a member function fileToUpload() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 58
+[20-Dec-2017 00:37:19 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[20-Dec-2017 00:38:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 174
+[20-Dec-2017 00:38:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[20-Dec-2017 00:39:38 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[20-Dec-2017 01:30:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookServerException' with message 'An unknown error has occurred.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:111
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 500, Array)
+#4 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 111
+[20-Dec-2017 18:15:58 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookSDKException' with message 'Failed to create FacebookFile entity. Unable to read resource: application/uploads/image3.jpg.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FileUpload/FacebookFile.php:88
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FileUpload/FacebookFile.php(69): Facebook\FileUpload\FacebookFile->open()
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php(559): Facebook\FileUpload\FacebookFile->__construct('application/upl...')
+#2 /home/benorg/public_html/scheduler/application/controllers/sms.php(62): Facebook\Facebook->fileToUpload('application/upl...')
+#3 [internal function]: SMS->fb_post_asUser()
+#4 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#5 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#6  in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FileUpload/FacebookFile.php on line 88
+[21-Dec-2017 15:58:04 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting ']' in /home/benorg/public_html/scheduler/application/views/sms/index.php on line 50
+[21-Dec-2017 17:38:10 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(88): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:41:47 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(89): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:43:28 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(89): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:44:08 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(89): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:45:37 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:46:53 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:47:32 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:47:45 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:48:00 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 163
+[21-Dec-2017 17:48:04 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:48:44 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:48:47 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:49:02 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:49:14 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 17:49:17 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 18:47:29 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:29:20 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:31:55 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:32:00 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:32:47 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:34:26 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:34:30 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:34:45 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:35:00 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:35:02 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:35:03 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:36:03 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:37:35 America/Chicago] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'The default access token must be of type "string" or Facebook\AccessToken' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php:263
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/controllers/sms.php(91): Facebook\Facebook->setDefaultAccessToken(0)
+#1 /home/benorg/public_html/scheduler/application/controllers/sms.php(44): SMS->fbValidateAccessToken('100023416753149', 'EAAC0dI0nmF4BAM...')
+#2 [internal function]: SMS->index()
+#3 /home/benorg/public_html/scheduler/system/core/CodeIgniter.php(360): call_user_func_array(Array, Array)
+#4 /home/benorg/public_html/scheduler/index.php(202): require_once('/home/benorg/pu...')
+#5 {main}
+  thrown in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Facebook.php on line 263
+[21-Dec-2017 19:47:01 America/Chicago] PHP Fatal error:  Call to undefined function curl_get_file_contents() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 85
+[21-Dec-2017 19:47:35 America/Chicago] PHP Fatal error:  Call to undefined function curl_get_file_contents() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 85
+[21-Dec-2017 19:47:59 America/Chicago] PHP Fatal error:  Call to undefined function curl_get_file_contents() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 100
+[21-Dec-2017 19:58:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 81
+[21-Dec-2017 20:01:43 America/Chicago] PHP Fatal error:  Call to undefined function curl_get_file_contents() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 102
+[21-Dec-2017 20:02:25 America/Chicago] PHP Fatal error:  Cannot redeclare SMS::curl_get_file_contents() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 108
+[21-Dec-2017 20:02:29 America/Chicago] PHP Fatal error:  Cannot redeclare SMS::curl_get_file_contents() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 108
+[21-Dec-2017 20:05:41 America/Chicago] PHP Parse error:  syntax error, unexpected ''EAAC0dI0nmF4BALx2M4OZASEHUbOQ' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 57
+[21-Dec-2017 20:34:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$decoded_response' (T_VARIABLE) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 92
+[21-Dec-2017 20:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$decoded_response' (T_VARIABLE) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 92
+[21-Dec-2017 21:26:00 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/benorg/public_html/scheduler/application/views/sms/index.php on line 39
+[21-Dec-2017 21:26:10 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/benorg/public_html/scheduler/application/views/sms/index.php on line 39
+[22-Dec-2017 21:33:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 62
+[22-Dec-2017 21:42:40 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 55
+[22-Dec-2017 21:44:21 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 55
+[23-Dec-2017 20:12:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 312
+[23-Dec-2017 20:43:26 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message 'Unsupported post request. Object with ID '110240529770949' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[23-Dec-2017 20:48:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthorizationException' with message '(#200) Requires either publish_actions permission, or manage_pages and publish_pages as an admin with sufficient administrative permission' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:126
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 126
+[23-Dec-2017 22:18:43 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthorizationException' with message '(#200) Requires either publish_actions permission, or manage_pages and publish_pages as an admin with sufficient administrative permission' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:126
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 126
+[23-Dec-2017 22:23:36 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthorizationException' with message '(#200) Requires either publish_actions permission, or manage_pages and publish_pages as an admin with sufficient administrative permission' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:126
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 126
+[24-Dec-2017 06:39:52 America/Chicago] PHP Fatal error:  Uncaught exception 'Facebook\Exceptions\FacebookAuthenticationException' with message '(#100) The privacy param cannot be applied when a target is specified.' in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/FacebookClient.php(225): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{ in /home/benorg/public_html/scheduler/application/libraries/php-graph-sdk-5.x/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[24-Dec-2017 07:19:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[24-Dec-2017 07:19:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[24-Dec-2017 07:19:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[24-Dec-2017 07:22:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[28-Dec-2017 17:54:56 America/Chicago] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[28-Dec-2017 17:57:35 America/Chicago] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[28-Dec-2017 17:58:01 America/Chicago] PHP Fatal error:  Call to a member function getAccessToken() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[28-Dec-2017 17:59:39 America/Chicago] PHP Fatal error:  Call to a member function getRedirectLoginHelper() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 377
+[29-Dec-2017 23:05:05 America/Chicago] PHP Fatal error:  Call to undefined method SMS::fbGetPageUserId() in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 236
+[30-Dec-2017 19:18:11 America/Chicago] PHP Fatal error:  Call to a member function getGraphNode() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 435
+[30-Dec-2017 19:20:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 73
+[30-Dec-2017 21:09:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 190
+[30-Dec-2017 21:10:48 America/Chicago] PHP Fatal error:  Call to a member function getGraphNode() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 435
+[30-Dec-2017 21:11:00 America/Chicago] PHP Fatal error:  Call to a member function getGraphNode() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 435
+[04-Jan-2018 01:09:46 America/Chicago] PHP Fatal error:  Call to a member function getGraphNode() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 265
+[04-Jan-2018 01:10:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 493
+[04-Jan-2018 01:10:06 America/Chicago] PHP Fatal error:  Call to a member function getGraphNode() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 372
+[04-Jan-2018 01:11:54 America/Chicago] PHP Fatal error:  Call to a member function getGraphNode() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 372
+[04-Jan-2018 01:12:39 America/Chicago] PHP Fatal error:  Call to a member function getGraphNode() on a non-object in /home/benorg/public_html/scheduler/application/controllers/sms.php on line 372
